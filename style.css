@@ -72,6 +72,7 @@ div#q2{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 0px 0px 10px black;
 }
 
 div#q4{
@@ -80,6 +81,7 @@ div#q4{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 0px 0px 10px black;
 }
 
 div#q4 > p{
